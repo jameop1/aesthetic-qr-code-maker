@@ -12,4 +12,4 @@ Create customizable, scannable QR codes with custom styling, colors, patterns, a
 
 ## Getting Started
 
-Open `index.html` in any modern web browser.
+Open `index.html` in any modern web browser or use it on https://jameop1.github.io/aesthetic-qr-code-maker/
